@@ -6,7 +6,7 @@ import img3 from './Kedarnath.webp';
 import img4 from './kashmir.jpg';
 
 import './App.css';
-
+    
 function App() {
   return (
   
