@@ -4,8 +4,8 @@ import img1 from './Dubai.jpg';
 import img2 from './Brindavan-Garden-Mysore.webp';
 import img3 from './Kedarnath.webp';
 import img4 from './kashmir.jpg';
-
 import './App.css';
+
 function App() {
   return (
   
