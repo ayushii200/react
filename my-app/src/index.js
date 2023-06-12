@@ -2,16 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 //import App from './App';
-import Props from './Props';
-import Main from './Main';
+//import Props from './Props';
+//import Main from './Main';
+import Todo from './Todo';
 import reportWebVitals from './reportWebVitals';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Main/>
-   <Props/>
+   <Todo/>
   </React.StrictMode>
 );
 
