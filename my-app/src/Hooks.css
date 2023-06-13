@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(142, 155, 168);
+}
+hr {
+    position: relative;
+    height: 12px;
+    background: white;
+    margin-bottom: 20px;
+}
