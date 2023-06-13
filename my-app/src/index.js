@@ -4,14 +4,17 @@ import './index.css';
 //import App from './App';
 //import Props from './Props';
 //import Main from './Main';
-import Todo from './Todo';
+//import Todo from './Todo';
+import Counter from './Counter.js';
 import reportWebVitals from './reportWebVitals';
+import Stopwatch from './Stopwatch';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-   <Todo/>
+   <Counter/>
+   <Stopwatch/>
   </React.StrictMode>
 );
 
