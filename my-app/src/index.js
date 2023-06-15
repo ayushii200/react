@@ -5,16 +5,18 @@ import './index.css';
 //import Props from './Props';
 //import Main from './Main';
 //import Todo from './Todo';
-import Counter from './Counter.js';
+//import Counter from './Counter.js';
 import reportWebVitals from './reportWebVitals';
-import Stopwatch from './Stopwatch';
+//import Stopwatch from './Stopwatch';
+import Mode from './Mode';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-   <Counter/>
-   <Stopwatch/>
+   {/* <Counter/>
+   <Stopwatch/> */}
+   <Mode/>
   </React.StrictMode>
 );
 
